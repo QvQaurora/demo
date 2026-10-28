@@ -1,0 +1,29 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+.DS_Store
+Thumbs.db
+
+# Local Cursor / tooling
+.cursor/
+
+# Visual Studio / build artifacts
+*.VC.db
+*.opensdf
+*.sdf
+*.tmp
+*.log
+obj/
+x64/
+Win32/
